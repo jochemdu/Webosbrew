@@ -12,6 +12,7 @@
             "iconUri": "https://raw.githubusercontent.com/webosbrew/chocolate-doom/webos-tv/data/doom.png",
             "manifestUrl": "https://github.com/webosbrew/chocolate-doom/releases/download/webos-demo-0.0.1/org.chocolate-doom.demo.manifest.json"
         },
+        {"id":"org.webosbrew.hyperhdr.loader","version":"0.1.12","type":"web","title":"HyperHDR","appDescription":"HyperHDR for WebOS","iconUri":"https://github.com/webosbrew/hyperhdr-webos-loader/raw/master/assets/logo_big.png","sourceUrl":"https://github.com/webosbrew/hyperhdr-webos-loader","rootRequired":true,"ipkUrl":"org.webosbrew.hyperhdr.loader_0.1.12_all.ipk","ipkHash":{"sha256":"1d5f702a72d7d5188d83b2cb61205b5650981f393ba96cb525573c97c1df8076"}},
         {
             "id": "org.webosbrew.hbchannel",
             "title": "Homebrew Channel",
